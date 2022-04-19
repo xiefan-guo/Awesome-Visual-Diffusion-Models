@@ -12,37 +12,24 @@ A collection of resources and papers on ***Visual Diffusion Models***.
 
 ## Landmark Papers
 
-- Denoising Diffusion Probabilistic Models
-  - _NeurIPS 2020_. [Paper](https://papers.nips.cc/paper/2020/file/4c5bcfec8584af0d967f1ab10179ca4b-Paper.pdf) | [TensorFlow](https://github.com/hojonathanho/diffusion) | [PyTorch](https://github.com/pesser/pytorch_diffusion)
-- Diffusion Models Beat GANs on Image Synthesis
-  - _NeurIPS 2021_. [Paper](https://papers.nips.cc/paper/2021/file/49ad23d1ec9fa4bd8d77d02681df5cfa-Paper.pdf) | [PyTorch](https://github.com/openai/guided-diffusion)
-- Video Diffusion Models
-  - _arXiv 2022_. [Paper](https://arxiv.org/abs/2204.03458)
+- [NeurIPS 2020] **Denoising Diffusion Probabilistic Models**, *Jonathan Ho, Ajay Jain, Pieter Abbeel*. [Paper](https://papers.nips.cc/paper/2020/file/4c5bcfec8584af0d967f1ab10179ca4b-Paper.pdf) | [TensorFlow](https://github.com/hojonathanho/diffusion) | [PyTorch](https://github.com/pesser/pytorch_diffusion)
+- [NeurIPS 2021] __Diffusion Models Beat GANs on Image Synthesis__, *Prafulla Dhariwal, Alex Nichol*. [Paper](https://papers.nips.cc/paper/2021/file/49ad23d1ec9fa4bd8d77d02681df5cfa-Paper.pdf) | [PyTorch](https://github.com/openai/guided-diffusion)
+- [arXiv 2022] __Video Diffusion Models__, *Jonathan Ho, Tim Salimans, Alexey Gritsenko, William Chan, Mohammad Norouzi, David J. Fleet*. [Paper](https://arxiv.org/abs/2204.03458)
 
 ## Papers
 
 ### Conference Papers
 
-- Diffusion Autoencoders: Toward a Meaningful and Decodable Representation
-  - _CVPR 2022_. [Paper](https://arxiv.org/abs/2111.15640) | [Project](https://diff-ae.github.io/)
-- High-Resolution Image Synthesis with Latent Diffusion Models
-  - _CVPR 2022_. [Paper](https://arxiv.org/abs/2112.10752) | [PyTorch](https://github.com/CompVis/latent-diffusion)
-- Dynamic Dual-Output Diffusion Models
-  - _CVPR 2022_. [Paper](https://arxiv.org/abs/2203.04304)
-- Perception Prioritized Training of Diffusion Models
-  - _CVPR 2022_. [Paper](https://arxiv.org/abs/2204.00227) | [PyTorch](https://arxiv.org/abs/2204.00227)
-- Generating High Fidelity Data from Low-density Regions using Diffusion Models
-  - _CVPR 2022_. [Paper](https://arxiv.org/abs/2203.17260)
-- SDEdit: Image Synthesis and Editing with Stochastic Differential Equations
-  - _ICLR 2022_. [Paper](https://openreview.net/pdf?id=aBsCjcPu_tE) | [PyTorch](https://openreview.net/pdf?id=aBsCjcPu_tE) | [Project](https://sde-image-editing.github.io/)
-- Denoising Likelihood Score Matching for Conditional Score-based Data Generation
-  - _ICLR 2022_. [Paper](https://openreview.net/pdf?id=LcF-EEt8cCC) | [Code](https://github.com/chen-hao-chao/dlsm)
-- Learning Fast Samplers for Diffusion Models by Differentiating Through Sample Quality
-  - _ICLR 2022_. [Paper](https://openreview.net/pdf?id=VFBjuF8HEp)
-- Progressive Distillation for Fast Sampling of Diffusion Models
-  - _ICLR 2022_. [Paper](https://openreview.net/pdf?id=TIdIXIpzhoI) | [TensorFlow](https://github.com/google-research/google-research/tree/master/diffusion_distillation)
-- Pseudo Numerical Methods for Diffusion Models on Manifolds
-  - _ICLR 2022_. [Paper](https://openreview.net/pdf?id=PlKWVd2yBkY) | [PyTorch](https://github.com/luping-liu/PNDM)
+- [CVPR 2022] __Diffusion Autoencoders: Toward a Meaningful and Decodable Representation__, *Konpat Preechakul, Nattanat Chatthee, Suttisak Wizadwongsa, Supasorn Suwajanakorn*. [Paper](https://arxiv.org/abs/2111.15640) | [Project](https://diff-ae.github.io/)
+- [CVPR 2022] __High-Resolution Image Synthesis with Latent Diffusion Models__, *Robin Rombach, Andreas Blattmann, Dominik Lorenz, Patrick Esser, Björn Ommer*. [Paper](https://arxiv.org/abs/2112.10752) | [PyTorch](https://github.com/CompVis/latent-diffusion)
+- [CVPR 2022] __Dynamic Dual-Output Diffusion Models__, *Yaniv Benny, Lior Wolf*. [Paper](https://arxiv.org/abs/2203.04304)
+- [CVPR 2022] __Perception Prioritized Training of Diffusion Models__, *Jooyoung Choi, Jungbeom Lee, Chaehun Shin, Sungwon Kim, Hyunwoo Kim, Sungroh Yoon*. [Paper](https://arxiv.org/abs/2204.00227) | [PyTorch](https://arxiv.org/abs/2204.00227)
+- [CVPR 2022] __Generating High Fidelity Data from Low-density Regions using Diffusion Models__, *Vikash Sehwag, Caner Hazirbas, Albert Gordo, Firat Ozgenel, Cristian Canton Ferrer*. [Paper](https://arxiv.org/abs/2203.17260)
+- [ICLR 2022] __SDEdit: Image Synthesis and Editing with Stochastic Differential Equations__, *Chenlin Meng, Yang Song, Jiaming Song, Jiajun Wu, Jun-Yan Zhu, Stefano Ermon*. [Paper](https://openreview.net/pdf?id=aBsCjcPu_tE) | [PyTorch](https://openreview.net/pdf?id=aBsCjcPu_tE) | [Project](https://sde-image-editing.github.io/)
+- [ICLR 2022] __Denoising Likelihood Score Matching for Conditional Score-based Data Generation__, *Chen-Hao Chao, Wei-Fang Sun, Bo-Wun Cheng, Yi-Chen Lo, Chia-Che Chang, Yu-Lun Liu, Yu-Lin Chang, Chia-Ping Chen, Chun-Yi Lee*. [Paper](https://openreview.net/pdf?id=LcF-EEt8cCC) | [Code](https://github.com/chen-hao-chao/dlsm)
+- [ICLR 2022] __Learning Fast Samplers for Diffusion Models by Differentiating Through Sample Quality__, *Daniel Watson, William Chan, Jonathan Ho, Mohammad Norouzi*. [Paper](https://openreview.net/pdf?id=VFBjuF8HEp)
+- [ICLR 2022] __Progressive Distillation for Fast Sampling of Diffusion Models__, *Tim Salimans, Jonathan Ho*. [Paper](https://openreview.net/pdf?id=TIdIXIpzhoI) | [TensorFlow](https://github.com/google-research/google-research/tree/master/diffusion_distillation)
+- [ICLR 2022] __Pseudo Numerical Methods for Diffusion Models on Manifolds__, *Luping Liu, Yi Ren, Zhijie Lin, Zhou Zhao*. [Paper](https://openreview.net/pdf?id=PlKWVd2yBkY) | [PyTorch](https://github.com/luping-liu/PNDM)
 - Diffusion Normalizing Flow
   - _NeurIPS 2021_. [Paper](https://proceedings.neurips.cc/paper/2021/file/876f1f9954de0aa402d91bb988d12cd4-Paper.pdf) | [Code](https://github.com/qsh-zh/DiffFlow)
 - Variational Diffusion Models
