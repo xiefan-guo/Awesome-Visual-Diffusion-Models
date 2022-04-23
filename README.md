@@ -25,6 +25,7 @@ A collection of resources and papers on ***Visual Diffusion Models***.
 
 |  Proceeding  | Title                                                        |                            Assets                            |
 | :----------: | ------------------------------------------------------------ | :----------------------------------------------------------: |
+|IJCAI 2022|**FastDiff: A Fast Conditional Diffusion Model for High-Quality Speech Synthesis**<br>*Rongjie Huang, Max W. Y. Lam, Jun Wang, Dan Su, Dong Yu, Yi Ren, Zhou Zhao*|[Paper](https://arxiv.org/abs/2204.09934)|
 |  CVPR 2022   | __Diffusion Autoencoders: Toward a Meaningful and Decodable Representation__<br>*Konpat Preechakul, Nattanat Chatthee, Suttisak Wizadwongsa, Supasorn Suwajanakorn* | [Paper](https://arxiv.org/abs/2111.15640)<br/>[Project](https://diff-ae.github.io/) |
 |CVPR 2022|**Blended Diffusion: Text-driven Editing of Natural Images**<br>*Omri Avrahami, Dani Lischinski, Ohad Fried*|[Paper](https://arxiv.org/abs/2111.14818)<br>[PyTorch](https://github.com/omriav/blended-diffusion)<br>[Project](https://omriavrahami.com/blended-diffusion-page/)|
 |CVPR 2022|**Vector Quantized Diffusion Model for Text-to-Image Synthesis**<br>*Shuyang Gu, Dong Chen, Jianmin Bao, Fang Wen, Bo Zhang, Dongdong Chen, Lu Yuan, Baining Guo*|[Paper](https://arxiv.org/abs/2111.14822)<br>[PyTorch](https://github.com/microsoft/VQ-Diffusion)|
