@@ -75,6 +75,7 @@ A collection of resources and papers on ***Visual Diffusion Models***.
 
 | Preprints  | Title                                                        |                            Assets                            |
 | :--------: | ------------------------------------------------------------ | :----------------------------------------------------------: |
+|arXiv 2022|**Retrieval-Augmented Diffusion Models**<br>*Andreas Blattmann, Robin Rombach, Kaan Oktay, Björn Ommer*|[Paper](https://arxiv.org/abs/2204.11824)|
 |arXiv 2022|**Hierarchical Text-Conditional Image Generation with CLIP Latents**<br>*Aditya Ramesh, Prafulla Dhariwal, Alex Nichol, Casey Chu, Mark Chen*|[Paper](https://arxiv.org/abs/2204.06125)|
 |arXiv 2022|**The Swiss Army Knife for Image-to-Image Translation: Multi-Task Diffusion Models**<br>*Julia Wolleb, Robin Sandkühler, Florentin Bieder, Philippe C. Cattin*|[Paper](https://arxiv.org/abs/2204.02641)|
 |arXiv 2022|**Dual Diffusion Implicit Bridges for Image-to-Image Translation**<br>*Xuan Su, Jiaming Song, Chenlin Meng, Stefano Ermon*|[Paper](https://arxiv.org/abs/2203.08382)|
