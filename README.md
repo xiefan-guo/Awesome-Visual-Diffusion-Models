@@ -75,8 +75,10 @@ A collection of resources and papers on ***Visual Diffusion Models***.
 
 | Preprints  | Title                                                        |                            Assets                            |
 | :--------: | ------------------------------------------------------------ | :----------------------------------------------------------: |
+|arXiv 2022|**Fast Sampling of Diffusion Models with Exponential Integrator**<br>*Qinsheng Zhang, Yongxin Chen*|[Paper](https://arxiv.org/abs/2204.13902)|
 |arXiv 2022|**Retrieval-Augmented Diffusion Models**<br>*Andreas Blattmann, Robin Rombach, Kaan Oktay, Björn Ommer*|[Paper](https://arxiv.org/abs/2204.11824)|
 |arXiv 2022|**Hierarchical Text-Conditional Image Generation with CLIP Latents**<br>*Aditya Ramesh, Prafulla Dhariwal, Alex Nichol, Casey Chu, Mark Chen*|[Paper](https://arxiv.org/abs/2204.06125)|
+|arXiv 2022|**Truncated Diffusion Probabilistic Models**<br>*Huangjie Zheng, Pengcheng He, Weizhu Chen, Mingyuan Zhou*|[Paper](https://arxiv.org/abs/2202.09671)|
 |arXiv 2022|**The Swiss Army Knife for Image-to-Image Translation: Multi-Task Diffusion Models**<br>*Julia Wolleb, Robin Sandkühler, Florentin Bieder, Philippe C. Cattin*|[Paper](https://arxiv.org/abs/2204.02641)|
 |arXiv 2022|**Dual Diffusion Implicit Bridges for Image-to-Image Translation**<br>*Xuan Su, Jiaming Song, Chenlin Meng, Stefano Ermon*|[Paper](https://arxiv.org/abs/2203.08382)|
 | arXiv 2022 | __DiffuseVAE: Efficient, Controllable and High-Fidelity Generation from Low-Dimensional Latents__<br>*Kushagra Pandey, Avideep Mukherjee, Piyush Rai, Abhishek Kumar* | [Paper](https://arxiv.org/abs/2201.00308)<br/>[PyTorch](https://github.com/kpandey008/DiffuseVAE) |
