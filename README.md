@@ -75,6 +75,7 @@ A collection of resources and papers on ***Visual Diffusion Models***.
 
 | Preprints  | Title                                                        |                            Assets                            |
 | :--------: | ------------------------------------------------------------ | :----------------------------------------------------------: |
+|arXiv 2022|**Subspace Diffusion Generative Models**<br>*Bowen Jing, Gabriele Corso, Renato Berlinghieri, Tommi Jaakkola*|[Paper](https://arxiv.org/abs/2205.01490)<br>[PyTorch](https://github.com/bjing2016/subspace-diffusion)|
 |arXiv 2022|**Fast Sampling of Diffusion Models with Exponential Integrator**<br>*Qinsheng Zhang, Yongxin Chen*|[Paper](https://arxiv.org/abs/2204.13902)|
 |arXiv 2022|**Retrieval-Augmented Diffusion Models**<br>*Andreas Blattmann, Robin Rombach, Kaan Oktay, Björn Ommer*|[Paper](https://arxiv.org/abs/2204.11824)|
 |arXiv 2022|**Hierarchical Text-Conditional Image Generation with CLIP Latents**<br>*Aditya Ramesh, Prafulla Dhariwal, Alex Nichol, Casey Chu, Mark Chen*|[Paper](https://arxiv.org/abs/2204.06125)|
