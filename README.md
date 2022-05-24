@@ -77,6 +77,9 @@ A collection of resources and papers on ***Visual Diffusion Models***.
 
 | Preprints  | Title                                                        |                            Assets                            |
 | :--------: | ------------------------------------------------------------ | :----------------------------------------------------------: |
+|arXiv 2022|**Masked Conditional Video Diffusion for Prediction, Generation, and Interpolation**<br>*Vikram Voleti, Alexia Jolicoeur-Martineau, Christopher Pal*|[Paper](https://arxiv.org/abs/2205.09853)<br>[Project](https://mask-cond-video-diffusion.github.io/)|
+|arXiv 2022|**Flexible Diffusion Modeling of Long Videos**<br>*William Harvey, Saeid Naderiparizi, Vaden Masrani, Christian Weilbach, Frank Wood*|[Paper](https://arxiv.org/abs/2205.11495)|
+|arXiv 2022|**Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding**<br>*Chitwan Saharia, William Chan, Saurabh Saxena, Lala Li, Jay Whang, Emily Denton, Seyed Kamyar Seyed Ghasemipour, Burcu Karagol Ayan, S. Sara Mahdavi, Rapha Gontijo Lopes, Tim Salimans, Jonathan Ho, David J Fleet, Mohammad Norouzi*|[Paper](https://arxiv.org/abs/2205.11487)|
 |arXiv 2022|**Subspace Diffusion Generative Models**<br>*Bowen Jing, Gabriele Corso, Renato Berlinghieri, Tommi Jaakkola*|[Paper](https://arxiv.org/abs/2205.01490)<br>[PyTorch](https://github.com/bjing2016/subspace-diffusion)|
 |arXiv 2022|**Fast Sampling of Diffusion Models with Exponential Integrator**<br>*Qinsheng Zhang, Yongxin Chen*|[Paper](https://arxiv.org/abs/2204.13902)|
 |arXiv 2022|**Retrieval-Augmented Diffusion Models**<br>*Andreas Blattmann, Robin Rombach, Kaan Oktay, Björn Ommer*|[Paper](https://arxiv.org/abs/2204.11824)|
