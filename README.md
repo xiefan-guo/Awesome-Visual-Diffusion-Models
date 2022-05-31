@@ -86,6 +86,10 @@ A collection of resources and papers on ***Visual Diffusion Models***.
 
 | Preprints  | Title                                                        |                            Assets                            |
 | :--------: | ------------------------------------------------------------ | :----------------------------------------------------------: |
+|arXiv 2022|**Protein Structure and Sequence Generation with Equivariant Denoising Diffusion Probabilistic Models**<br>*Namrata Anand, Tudor Achim*|[Paper](https://arxiv.org/abs/2205.15019)<br>[Project](https://nanand2.github.io/proteins/)|
+|arXiv 2022|**Guided Diffusion Model for Adversarial Purification**<br>*Jinyi Wang, Zhaoyang Lyu, Dahua Lin, Bo Dai, Hongfei Fu*|[Paper](https://arxiv.org/abs/2205.14969)|
+|arXiv 2022|**Pretraining is All You Need for Image-to-Image Translation**<br>*Tengfei Wang, Ting Zhang, Bo Zhang, Hao Ouyang, Dong Chen, Qifeng Chen, Fang Wen*|[Paper](https://arxiv.org/abs/2205.12952)<br>[PyTorch](https://github.com/PITI-Synthesis/PITI)<br>[Project](https://tengfei-wang.github.io/PITI/index.html)|
+|arXiv 2022|**Maximum Likelihood Training of Implicit Nonlinear Diffusion Models**<br>*Dongjun Kim, Byeonghu Na, Se Jung Kwon, Dongsoo Lee, Wanmo Kang, Il-Chul Moon*|[Paper](https://arxiv.org/abs/2205.13699)|
 |arXiv 2022|**Accelerating Diffusion Models via Early Stop of the Diffusion Process**<br>*Zhaoyang Lyu, Xudong XU, Ceyuan Yang, Dahua Lin, Bo Dai*|[Paper](https://arxiv.org/abs/2205.12524)|
 |arXiv 2022|**Masked Conditional Video Diffusion for Prediction, Generation, and Interpolation**<br>*Vikram Voleti, Alexia Jolicoeur-Martineau, Christopher Pal*|[Paper](https://arxiv.org/abs/2205.09853)<br>[Project](https://mask-cond-video-diffusion.github.io/)|
 |arXiv 2022|**Flexible Diffusion Modeling of Long Videos**<br>*William Harvey, Saeid Naderiparizi, Vaden Masrani, Christian Weilbach, Frank Wood*|[Paper](https://arxiv.org/abs/2205.11495)|
