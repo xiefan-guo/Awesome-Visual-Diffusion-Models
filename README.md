@@ -86,8 +86,10 @@ A collection of resources and papers on ***Visual Diffusion Models***.
 
 | Preprints  | Title                                                        |                            Assets                            |
 | :--------: | ------------------------------------------------------------ | :----------------------------------------------------------: |
+|arXiv 2022|**On Analyzing Generative and Denoising Capabilities of Diffusion-based Deep Generative Models**<br>*Kamil Deja, Anna Kuzina, Tomasz Trzciński, Jakub M. Tomczak*|[Paper](https://arxiv.org/abs/2206.00070)|
+|arXiv 2022|**Elucidating the Design Space of Diffusion-Based Generative Models**<br>*Tero Karras, Miika Aittala, Timo Aila, Samuli Laine*|[Paper](https://arxiv.org/abs/2206.00364)|
 |arXiv 2022|**Improved Vector Quantized Diffusion Models**<br>*Zhicong Tang, Shuyang Gu, Jianmin Bao, Dong Chen, Fang Wen*|[Paper](https://arxiv.org/abs/2205.16007)<br>[PyTorch](https://github.com/microsoft/VQ-Diffusion)|
-|arXiv 2022|**Few-Shot Diffusion Models**<br>*Giorgio Giannone, Didrik Nielsen, Ole Winther*|[Paper](https://arxiv.org/abs/2205.15463)|
+|arXiv 2022|**Few-Shot Diffusion Models**<br>*Giorgio Giannone, Didrik Nielsen, Ole Winther*|[Paper](https://arxiv.org/abs/2205.15463)<br>[PyTorch](https://github.com/submission-neurips22/few-shot-diffusion-models)|
 |arXiv 2022|**Protein Structure and Sequence Generation with Equivariant Denoising Diffusion Probabilistic Models**<br>*Namrata Anand, Tudor Achim*|[Paper](https://arxiv.org/abs/2205.15019)<br>[Project](https://nanand2.github.io/proteins/)|
 |arXiv 2022|**Guided Diffusion Model for Adversarial Purification**<br>*Jinyi Wang, Zhaoyang Lyu, Dahua Lin, Bo Dai, Hongfei Fu*|[Paper](https://arxiv.org/abs/2205.14969)|
 |arXiv 2022|**Pretraining is All You Need for Image-to-Image Translation**<br>*Tengfei Wang, Ting Zhang, Bo Zhang, Hao Ouyang, Dong Chen, Qifeng Chen, Fang Wen*|[Paper](https://arxiv.org/abs/2205.12952)<br>[PyTorch](https://github.com/PITI-Synthesis/PITI)<br>[Project](https://tengfei-wang.github.io/PITI/index.html)|
