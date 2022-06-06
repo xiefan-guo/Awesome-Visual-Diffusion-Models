@@ -86,6 +86,7 @@ A collection of resources and papers on ***Visual Diffusion Models***.
 
 | Preprints  | Title                                                        |                            Assets                            |
 | :--------: | ------------------------------------------------------------ | :----------------------------------------------------------: |
+|arXiv 2022|**Compositional Visual Generation with Composable Diffusion Models**<br>*Nan Liu, Shuang Li, Yilun Du, Antonio Torralba, Joshua B. Tenenbaum*|[Paper](https://arxiv.org/abs/2206.01714)|
 |arXiv 2022|**Improving Diffusion Models for Inverse Problems using Manifold Constraints**<br>*Hyungjin Chung, Byeongsu Sim, Dohoon Ryu, Jong Chul Ye*|[Paper](https://arxiv.org/abs/2206.00941)|
 |arXiv 2022|**DPM-Solver: A Fast ODE Solver for Diffusion Probabilistic Model Sampling in Around 10 Steps**<br>*Cheng Lu, Yuhao Zhou, Fan Bao, Jianfei Chen, Chongxuan Li, Jun Zhu*|[Paper](https://arxiv.org/abs/2206.00927)|
 |arXiv 2022|**On Analyzing Generative and Denoising Capabilities of Diffusion-based Deep Generative Models**<br>*Kamil Deja, Anna Kuzina, Tomasz Trzciński, Jakub M. Tomczak*|[Paper](https://arxiv.org/abs/2206.00070)|
