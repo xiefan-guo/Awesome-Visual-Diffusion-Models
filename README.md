@@ -86,6 +86,11 @@ A collection of resources and papers on ***Visual Diffusion Models***.
 
 | Preprints  | Title                                                        |                            Assets                            |
 | :--------: | ------------------------------------------------------------ | :----------------------------------------------------------: |
+|arXiv 2022|**How Much is Enough? A Study on Diffusion Times in Score-based Generative Models**<br>*Giulio Franzese, Simone Rossi, Lixuan Yang, Alessandro Finamore, Dario Rossi, Maurizio Filippone, Pietro Michiardi*|[Paper](https://arxiv.org/abs/2206.05173)|
+|arXiv 2022|**Image Generation with Multimodal Priors using Denoising Diffusion Probabilistic Models**<br>*Nithin Gopalakrishnan Nair, Wele Gedara Chaminda Bandara, Vishal M Patel*|[Paper](https://arxiv.org/abs/2206.05039)|
+|arXiv 2022|**SAR Despeckling using a Denoising Diffusion Probabilistic Model**<br>*Malsha V. Perera, Nithin Gopalakrishnan Nair, Wele Gedara Chaminda Bandara, Vishal M. Patel*|[Paper](https://arxiv.org/abs/2206.04514)|
+|arXiv 2022|**Diffusion probabilistic modeling of protein backbones in 3D for the motif-scaffolding problem**<br>*Brian L. Trippe, Jason Yim, Doug Tischer, Tamara Broderick, David Baker, Regina Barzilay, Tommi Jaakkola*|[Paper](https://arxiv.org/abs/2206.04119)|
+|arXiv 2022|**Fast Unsupervised Brain Anomaly Detection and Segmentation with Diffusion Models**<br>*Walter H. L. Pinaya, Mark S. Graham, Robert Gray, Pedro F Da Costa, Petru-Daniel Tudosiu, Paul Wright, Yee H. Mah, Andrew D. MacKinnon, James T. Teo, Rolf Jager, David Werring, Geraint Rees, Parashkev Nachev, Sebastien Ourselin, M. Jorge Cardoso*|[Paper](https://arxiv.org/abs/2206.03461)|
 |arXiv 2022|**Blended Latent Diffusion**<br>*Omri Avrahami, Ohad Fried, Dani Lischinski*|[Paper](https://arxiv.org/abs/2206.02779)<br>[PyTorch](https://github.com/omriav/blended-latent-diffusion)<br>[Project](https://omriavrahami.com/blended-latent-diffusion-page/)|
 |arXiv 2022|**Diffusion-GAN: Training GANs with Diffusion**<br>*Zhendong Wang, Huangjie Zheng, Pengcheng He, Weizhu Chen, Mingyuan Zhou*|[Paper](https://arxiv.org/abs/2206.02262)|
 |arXiv 2022|**Compositional Visual Generation with Composable Diffusion Models**<br>*Nan Liu, Shuang Li, Yilun Du, Antonio Torralba, Joshua B. Tenenbaum*|[Paper](https://arxiv.org/abs/2206.01714)|
