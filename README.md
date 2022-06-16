@@ -30,7 +30,7 @@ A collection of resources and papers on ***Visual Diffusion Models***.
 |ICML 2022|**Equivariant Diffusion for Molecule Generation in 3D**<br>*Emiel Hoogeboom, Victor Garcia Satorras, Clément Vignac, Max Welling*|[Paper](https://arxiv.org/abs/2203.17003)|
 |ICML 2022|**Soft Truncation: A Universal Training Technique of Score-based Diffusion Model for High Precision Score Estimation**<br>*Dongjun Kim, Seungjae Shin, Kyungwoo Song, Wanmo Kang, Il-Chul Moon*|[Paper](https://arxiv.org/abs/2106.05527)|
 |ICML 2022|**Latent Diffusion Energy-Based Model for Interpretable Text Modeling**<br>*Peiyu Yu, Sirui Xie, Baoxiong Jia, Bo Pang, Ruiqi Gao, Yixin Zhu, Song-Chun Zhu, Ying Nian Wu*||
-|ICML 2022|**Estimating the Optimal Covariance with Imperfect Mean in Diffusion Probabilistic Models**<br>*Fan Bao, Chongxuan Li, Jiacheng Sun, Jun Zhu, Bo Zhang*|[PyTorch](https://github.com/baofff/Extended-Analytic-DPM)|
+|ICML 2022|**Estimating the Optimal Covariance with Imperfect Mean in Diffusion Probabilistic Models**<br>*Fan Bao, Chongxuan Li, Jiacheng Sun, Jun Zhu, Bo Zhang*|[Paper](https://arxiv.org/abs/2206.07309)<br>[PyTorch](https://github.com/baofff/Extended-Analytic-DPM)|
 |ICML 2022|**Guided-TTS: A Diffusion Model for Text-to-Speech via Classifier Guidance**<br>*Heeseung Kim, Sungwon Kim, Sungroh Yoon*|[Paper](http://arxiv-export-lb.library.cornell.edu/abs/2111.11755)|
 | ICML 2022 | __GLIDE: Towards Photorealistic Image Generation and Editing with Text-Guided Diffusion Models__<br>*Alex Nichol, Prafulla Dhariwal, Aditya Ramesh, Pranav Shyam, Pamela Mishkin, Bob McGrew, Ilya Sutskever, Mark Chen* |          [Paper](https://arxiv.org/abs/2112.10741)           |
 |ICML 2022|**Diffusion Models for Adversarial Purification**<br>*Weili Nie, Brandon Guo, Yujia Huang, Chaowei Xiao, Arash Vahdat, Anima Anandkumar*|[Paper](https://diffpure.github.io/)<br>[Project](https://diffpure.github.io/)|
@@ -87,6 +87,8 @@ A collection of resources and papers on ***Visual Diffusion Models***.
 
 | Preprints  | Title                                                        |                            Assets                            |
 | :--------: | ------------------------------------------------------------ | :----------------------------------------------------------: |
+|arXiv 2022|**CARD: Classification and Regression Diffusion Models**<br>*Xizewen Han, Huangjie Zheng, Mingyuan Zhou*|[Paper](https://arxiv.org/abs/2206.07275)|
+|arXiv 2022|**Diffusion Models for Video Prediction and Infilling**<br>*Tobias Höppe, Arash Mehrjou, Stefan Bauer, Didrik Nielsen, Andrea Dittadi*|[Paper](https://arxiv.org/abs/2206.07696)|
 |arXiv 2022|**gDDIM: Generalized denoising diffusion implicit models**<br>*Qinsheng Zhang, Molei Tao, Yongxin Chen*|[Paper](https://arxiv.org/abs/2206.05564)<br>[Code](https://github.com/qsh-zh/gDDIM)|
 |arXiv 2022|**How Much is Enough? A Study on Diffusion Times in Score-based Generative Models**<br>*Giulio Franzese, Simone Rossi, Lixuan Yang, Alessandro Finamore, Dario Rossi, Maurizio Filippone, Pietro Michiardi*|[Paper](https://arxiv.org/abs/2206.05173)|
 |arXiv 2022|**Image Generation with Multimodal Priors using Denoising Diffusion Probabilistic Models**<br>*Nithin Gopalakrishnan Nair, Wele Gedara Chaminda Bandara, Vishal M Patel*|[Paper](https://arxiv.org/abs/2206.05039)|
