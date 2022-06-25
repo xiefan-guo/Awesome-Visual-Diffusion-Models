@@ -87,6 +87,10 @@ A collection of resources and papers on ***Visual Diffusion Models***.
 
 | Preprints  | Title                                                        |                            Assets                            |
 | :--------: | ------------------------------------------------------------ | :----------------------------------------------------------: |
+|arXiv 2022|**Remote Sensing Change Detection (Segmentation) using Denoising Diffusion Probabilistic Models**<br>*Wele Gedara Chaminda Bandara, Nithin Gopalakrishnan Nair, Vishal M. Patel*|[Paper](https://arxiv.org/abs/2206.11892)<br>[PyTorch](https://github.com/wgcban/ddpm-cd)|
+|arXiv 2022|**Guided Diffusion Model for Adversarial Purification from Random Noise**<br>*Quanlin Wu, Hang Ye, Yuntian Gu*|[Paper](https://arxiv.org/abs/2206.10875)|
+|arXiv 2022|**A Flexible Diffusion Model**<br>*Weitao Du, Tao Yang, He Zhang, Yuanqi Du*|[Paper](https://arxiv.org/abs/2206.10365)|
+|arXiv 2022|**Diffusion models as plug-and-play priors**<br>*Alexandros Graikos, Nikolay Malkin, Nebojsa Jojic, Dimitris Samaras*|[Paper](https://arxiv.org/abs/2206.09012)<br>[PyTorch](https://github.com/AlexGraikos/diffusion_priors)|
 |arXiv 2022|**CARD: Classification and Regression Diffusion Models**<br>*Xizewen Han, Huangjie Zheng, Mingyuan Zhou*|[Paper](https://arxiv.org/abs/2206.07275)|
 |arXiv 2022|**Diffusion Models for Video Prediction and Infilling**<br>*Tobias Höppe, Arash Mehrjou, Stefan Bauer, Didrik Nielsen, Andrea Dittadi*|[Paper](https://arxiv.org/abs/2206.07696)|
 |arXiv 2022|**gDDIM: Generalized denoising diffusion implicit models**<br>*Qinsheng Zhang, Molei Tao, Yongxin Chen*|[Paper](https://arxiv.org/abs/2206.05564)<br>[Code](https://github.com/qsh-zh/gDDIM)|
