@@ -6,10 +6,15 @@ A collection of resources and papers on ***Visual Diffusion Models***.
 
 ## Contents
 
-- [Landmark Papers](#landmark-papers)
-- [Papers](#papers)
-- [Tutorials](#tutorials)
-- [Blogs](#blogs)
+- [Awesome-Visual-Diffusion-Models](#awesome-visual-diffusion-models)
+  - [Contents](#contents)
+  - [Landmark Papers](#landmark-papers)
+  - [Papers](#papers)
+    - [Conference Papers](#conference-papers)
+    - [Journal Papers](#journal-papers)
+    - [Preprints](#preprints)
+  - [Tutorials](#tutorials)
+  - [Blogs](#blogs)
 
 ## Landmark Papers
 
@@ -25,6 +30,7 @@ A collection of resources and papers on ***Visual Diffusion Models***.
 
 |  Proceeding  | Title                                                        |                            Assets                            |
 | :----------: | ------------------------------------------------------------ | :----------------------------------------------------------: |
+|ECCV 2022|**Accelerating Score-based Generative Models with Preconditioned Diffusion Sampling**<br>*Hengyuan Ma, Li Zhang, Xiatian Zhu, Jianfeng Feng*|[Paper](https://arxiv.org/abs/2207.02196)<br>[PyTorch](https://github.com/fudan-zvg/PDS)|
 |MICCAI 2022|**Diffusion Deformable Model for 4D Temporal Medical Image Generation**<br>*Boah Kim, Jong Chul Ye*|[Paper](https://arxiv.org/abs/2206.13295)|
 |ICML 2022|**Diffusion bridges vector quantized Variational AutoEncoders**<br>*Max Cohen, Guillaume Quispe, Sylvain Le Corff, Charles Ollion, Eric Moulines*|[Paper](https://arxiv.org/abs/2202.04895)|
 |ICML 2022|**Maximum Likelihood Training for Score-based Diffusion ODEs by High Order Denoising Score Matching**<br>*Cheng Lu, Kaiwen Zheng, Fan Bao, Chongxuan Li, Jianfei Chen, Jun Zhu*||
