@@ -30,6 +30,7 @@ A collection of resources and papers on ***Visual Diffusion Models***.
 
 |  Proceeding  | Title                                                        |                            Assets                            |
 | :----------: | ------------------------------------------------------------ | :----------------------------------------------------------: |
+|ACM MM 2022|**ProDiff: Progressive Fast Diffusion Model For High-Quality Text-to-Speech**<br>*Rongjie Huang, Zhou Zhao, Huadai Liu, Jinglin Liu, Chenye Cui, Yi Ren*|[Paper](https://arxiv.org/abs/2207.06389)|
 |ECCV 2022|**Accelerating Score-based Generative Models with Preconditioned Diffusion Sampling**<br>*Hengyuan Ma, Li Zhang, Xiatian Zhu, Jianfeng Feng*|[Paper](https://arxiv.org/abs/2207.02196)<br>[PyTorch](https://github.com/fudan-zvg/PDS)|
 |MICCAI 2022|**Diffusion Deformable Model for 4D Temporal Medical Image Generation**<br>*Boah Kim, Jong Chul Ye*|[Paper](https://arxiv.org/abs/2206.13295)|
 |ICML 2022|**Diffusion bridges vector quantized Variational AutoEncoders**<br>*Max Cohen, Guillaume Quispe, Sylvain Le Corff, Charles Ollion, Eric Moulines*|[Paper](https://arxiv.org/abs/2202.04895)|
@@ -94,6 +95,7 @@ A collection of resources and papers on ***Visual Diffusion Models***.
 
 | Preprints  | Title                                                        |                            Assets                            |
 | :--------: | ------------------------------------------------------------ | :----------------------------------------------------------: |
+|arXiv 2022|**Improving Diffusion Model Efficiency Through Patching**<br>*Troy Luhman, Eric Luhman*|[Paper](https://arxiv.org/abs/2207.04316)|
 |arXiv 2022|**Semantic Image Synthesis via Diffusion Models**<br>*Weilun Wang, Jianmin Bao, Wengang Zhou, Dongdong Chen, Dong Chen, Lu Yuan, Houqiang Li*|[Paper](https://arxiv.org/abs/2207.00050)|
 |arXiv 2022|**DDPM-CD: Remote Sensing Change Detection using Denoising Diffusion Probabilistic Models**<br>*Wele Gedara Chaminda Bandara, Nithin Gopalakrishnan Nair, Vishal M. Patel*|[Paper](https://arxiv.org/abs/2206.11892)<br>[PyTorch](https://github.com/wgcban/ddpm-cd)|
 |arXiv 2022|**Guided Diffusion Model for Adversarial Purification from Random Noise**<br>*Quanlin Wu, Hang Ye, Yuntian Gu*|[Paper](https://arxiv.org/abs/2206.10875)|
