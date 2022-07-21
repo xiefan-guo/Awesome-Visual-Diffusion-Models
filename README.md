@@ -95,6 +95,11 @@ A collection of resources and papers on ***Visual Diffusion Models***.
 
 | Preprints  | Title                                                        |                            Assets                            |
 | :--------: | ------------------------------------------------------------ | :----------------------------------------------------------: |
+|arXiv 2022|**Non-Uniform Diffusion Models**<br>*Georgios Batzolis, Jan Stanczuk, Carola-Bibiane Schönlieb, Christian Etmann*|[Paper](https://arxiv.org/abs/2207.09786)|
+|arXiv 2022|**Diffsound: Discrete Diffusion Model for Text-to-sound Generation**<br>*Dongchao Yang, Jianwei Yu, Helin Wang, Wen Wang, Chao Weng, Yuexian Zou, Dong Yu*|[Paper](https://arxiv.org/abs/2207.09983)|
+|arXiv 2022|**Adaptive Diffusion Priors for Accelerated MRI Reconstruction**<br>*Salman UH Dar, Şaban Öztürk, Yilmaz Korkmaz, Gokberk Elmas, Muzaffer Özbey, Alper Güngör, Tolga Çukur*|[Paper](https://arxiv.org/abs/2207.05876)|
+|arXiv 2022|**Unsupervised Medical Image Translation with Adversarial Diffusion Models**<br>*Muzaffer Özbey, Salman UH Dar, Hasan A Bedel, Onat Dalmaz, Şaban Özturk, Alper Güngör, Tolga Çukur*|[Paper](https://arxiv.org/abs/2207.08208)|
+|arXiv 2022|**Threat Model-Agnostic Adversarial Defense using Diffusion Models**<br>*Tsachi Blau, Roy Ganz, Bahjat Kawar, Alex Bronstein, Michael Elad*|[Paper](https://arxiv.org/abs/2207.08089)|
 |arXiv 2022|**Improving Diffusion Model Efficiency Through Patching**<br>*Troy Luhman, Eric Luhman*|[Paper](https://arxiv.org/abs/2207.04316)|
 |arXiv 2022|**Semantic Image Synthesis via Diffusion Models**<br>*Weilun Wang, Jianmin Bao, Wengang Zhou, Dongdong Chen, Dong Chen, Lu Yuan, Houqiang Li*|[Paper](https://arxiv.org/abs/2207.00050)|
 |arXiv 2022|**DDPM-CD: Remote Sensing Change Detection using Denoising Diffusion Probabilistic Models**<br>*Wele Gedara Chaminda Bandara, Nithin Gopalakrishnan Nair, Vishal M. Patel*|[Paper](https://arxiv.org/abs/2206.11892)<br>[PyTorch](https://github.com/wgcban/ddpm-cd)|
