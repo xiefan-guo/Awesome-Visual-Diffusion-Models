@@ -95,6 +95,16 @@ A collection of resources and papers on ***Visual Diffusion Models***.
 
 | Preprints  | Title                                                        |                            Assets                            |
 | :--------: | ------------------------------------------------------------ | :----------------------------------------------------------: |
+|arXiv 2022|**Riemannian Diffusion Models**<br>*Chin-Wei Huang, Milad Aghajohari, Avishek Joey Bose, Prakash Panangaden, Aaron Courville*|[Paper](https://arxiv.org/abs/2208.07949)|
+|arXiv 2022|**High-Frequency Space Diffusion Models for Accelerated MRI**<br>*Chentao Cao, Zhuo-Xu Cui, Shaonan Liu, Dong Liang, Yanjie Zhu*|[Paper](https://arxiv.org/abs/2208.05481)|
+|arXiv 2022|**Analog Bits: Generating Discrete Data using Diffusion Models with Self-Conditioning**<br>*Ting Chen, Ruixiang Zhang, Geoffrey Hinton*|[Paper](https://arxiv.org/abs/2208.04202)|
+|arXiv 2022|**Pyramidal Denoising Diffusion Probabilistic Models**<br>*Dohoon Ryu, Jong Chul Ye*|[Paper](https://arxiv.org/abs/2208.01864)|
+|arXiv 2022|**DeScoD-ECG: Deep Score-Based Diffusion Model for ECG Baseline Wander and Noise Removal**<br>*Huayu Li, Gregory Ditzler, Janet Roveda, Ao Li*|[Paper](https://arxiv.org/abs/2208.00542)|
+|arXiv 2022|**Restoring Vision in Adverse Weather Conditions with Patch-Based Denoising Diffusion Models**<br>*Ozan Özdenizci, Robert Legenstein*|[Paper](https://arxiv.org/abs/2207.14626)|
+|arXiv 2022|**Text-Guided Synthesis of Artistic Images with Retrieval-Augmented Diffusion Models**<br>*Robin Rombach, Andreas Blattmann, Björn Ommer*|[Paper](https://arxiv.org/abs/2207.13038)|
+|arXiv 2022|**Progressive Deblurring of Diffusion Models for Coarse-to-Fine Image Synthesis**<br>*Sangyun Lee, Hyungjin Chung, Jaehyeon Kim, Jong Chul Ye*|[Paper](https://arxiv.org/abs/2207.11192)|
+|arXiv 2022|**Deep Diffusion Models for Seismic Processing**<br>*Ricard Durall, Ammar Ghanim, Mario Fernandez, Norman Ettrich, Janis Keuper*|[Paper](https://arxiv.org/abs/2207.10451)|
+|arXiv 2022|**Diffsound: Discrete Diffusion Model for Text-to-sound Generation**<br>*Dongchao Yang, Jianwei Yu, Helin Wang, Wen Wang, Chao Weng, Yuexian Zou, Dong Yu*|[Paper](https://arxiv.org/abs/2207.09983)|
 |arXiv 2022|**Non-Uniform Diffusion Models**<br>*Georgios Batzolis, Jan Stanczuk, Carola-Bibiane Schönlieb, Christian Etmann*|[Paper](https://arxiv.org/abs/2207.09786)|
 |arXiv 2022|**Diffsound: Discrete Diffusion Model for Text-to-sound Generation**<br>*Dongchao Yang, Jianwei Yu, Helin Wang, Wen Wang, Chao Weng, Yuexian Zou, Dong Yu*|[Paper](https://arxiv.org/abs/2207.09983)|
 |arXiv 2022|**Adaptive Diffusion Priors for Accelerated MRI Reconstruction**<br>*Salman UH Dar, Şaban Öztürk, Yilmaz Korkmaz, Gokberk Elmas, Muzaffer Özbey, Alper Güngör, Tolga Çukur*|[Paper](https://arxiv.org/abs/2207.05876)|
